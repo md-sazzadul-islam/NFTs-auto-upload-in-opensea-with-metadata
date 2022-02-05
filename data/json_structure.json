@@ -1,0 +1,3347 @@
+{
+    "nft": [{
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/21.png",
+            "nft_name": "littlemermaid #21",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "69f4d1b7d203e62c4260b0487ea663421d14f853",
+            "edition": 21,
+            "date": 1643470631022,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/22.png",
+            "nft_name": "littlemermaid #22",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "a6d4cc2652c7ef22256d172f143d164f9c01d12a",
+            "edition": 22,
+            "date": 1643470631718,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/23.png",
+            "nft_name": "littlemermaid #23",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "b561bc9a140e62b3f21530d5eb811ae14819819f",
+            "edition": 23,
+            "date": 1643470632495,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/24.png",
+            "nft_name": "littlemermaid #24",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "2bded8ce3e3d76298c1d3c5ebef88b58e52670e3",
+            "edition": 24,
+            "date": 1643470633224,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/25.png",
+            "nft_name": "littlemermaid #25",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "79cdce14d4339d098f04067bedf24058e3d2b486",
+            "edition": 25,
+            "date": 1643470633928,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/26.png",
+            "nft_name": "littlemermaid #26",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "6a8f9350ac1a49290a345cbada8b6ac8a0fdcfee",
+            "edition": 26,
+            "date": 1643470634688,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/27.png",
+            "nft_name": "littlemermaid #27",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "62eea9dbe81bb3e820d5221cc7b09101e8b16264",
+            "edition": 27,
+            "date": 1643470635381,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/28.png",
+            "nft_name": "littlemermaid #28",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "3f0e824c347eeb060e088eb1d53b55d7994e719d",
+            "edition": 28,
+            "date": 1643470636115,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/29.png",
+            "nft_name": "littlemermaid #29",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "3ef566460e9e60152fc5b1971b102eaa082a83da",
+            "edition": 29,
+            "date": 1643470636846,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/30.png",
+            "nft_name": "littlemermaid #30",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "de32318e23208d4869097b5adcd106bb1e65948e",
+            "edition": 30,
+            "date": 1643470637557,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/31.png",
+            "nft_name": "littlemermaid #31",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "f0600701fb1d4f6f822672a4ffd419b1acb7958c",
+            "edition": 31,
+            "date": 1643470638288,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/32.png",
+            "nft_name": "littlemermaid #32",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "7da154f7ed08efea79fc4ef544af46f03b941bc4",
+            "edition": 32,
+            "date": 1643470639001,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/33.png",
+            "nft_name": "littlemermaid #33",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "785cc38723dfd0633cb942eb0a3d2d32c94df247",
+            "edition": 33,
+            "date": 1643470639687,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/34.png",
+            "nft_name": "littlemermaid #34",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "796ac53d6595f7ce6140a8aaf9dda3c5903f8df5",
+            "edition": 34,
+            "date": 1643470640433,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/35.png",
+            "nft_name": "littlemermaid #35",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "8e0624add696e466ce9ccfd00edc35bd2c141d52",
+            "edition": 35,
+            "date": 1643470641176,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/36.png",
+            "nft_name": "littlemermaid #36",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "24ac4ce3daa990a929c6df0d04b648d23276f170",
+            "edition": 36,
+            "date": 1643470641924,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/37.png",
+            "nft_name": "littlemermaid #37",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "f7cb38c6a31d2cbc137b349446bf713324c3f7cc",
+            "edition": 37,
+            "date": 1643470642659,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/38.png",
+            "nft_name": "littlemermaid #38",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "35dc3e91e06d71d96ca29e19f6d6f28c39ea5fad",
+            "edition": 38,
+            "date": 1643470643399,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/39.png",
+            "nft_name": "littlemermaid #39",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "6751cc116ccfb57c516451289f78c955ec6b9d73",
+            "edition": 39,
+            "date": 1643470644101,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/40.png",
+            "nft_name": "littlemermaid #40",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "c5d845958b95fab42e81a43a815f24157fbd9985",
+            "edition": 40,
+            "date": 1643470644849,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/41.png",
+            "nft_name": "littlemermaid #41",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "ebd37a8a1f08992bdb0904006e0a548b85376430",
+            "edition": 41,
+            "date": 1643470645554,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/42.png",
+            "nft_name": "littlemermaid #42",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "fd8254b1f2665873f120b8a3bc04a4dff7c2ba4e",
+            "edition": 42,
+            "date": 1643470646306,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/43.png",
+            "nft_name": "littlemermaid #43",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "7ef7b82377db89db299aa800c682fc063ebc58e6",
+            "edition": 43,
+            "date": 1643470647026,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/44.png",
+            "nft_name": "littlemermaid #44",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "2034afa7a64317a126753e514977612410c59c5b",
+            "edition": 44,
+            "date": 1643470647730,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/45.png",
+            "nft_name": "littlemermaid #45",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "7216e346b5874afdf5d14dfde74bc973f2209061",
+            "edition": 45,
+            "date": 1643470648576,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/46.png",
+            "nft_name": "littlemermaid #46",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "6091793d7a23663bd639abb33891ae9735a8b90d",
+            "edition": 46,
+            "date": 1643470649457,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/47.png",
+            "nft_name": "littlemermaid #47",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "6ebc159f1684cf0b8d0a2fd1304c753651b1b96f",
+            "edition": 47,
+            "date": 1643470650213,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/48.png",
+            "nft_name": "littlemermaid #48",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "82e8d96b3843d2560069b4837ebdbeaa368860db",
+            "edition": 48,
+            "date": 1643470650938,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/49.png",
+            "nft_name": "littlemermaid #49",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "2df65aa30161450258573724051b1da316dc36d9",
+            "edition": 49,
+            "date": 1643470651692,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/50.png",
+            "nft_name": "littlemermaid #50",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "b561ea9beb241f8c5dcfedb8f53b58af0823aa26",
+            "edition": 50,
+            "date": 1643470652406,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/51.png",
+            "nft_name": "littlemermaid #51",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "b217ebbeef386b96ead4f591fbe6f70fd22fc65a",
+            "edition": 51,
+            "date": 1643470653192,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/52.png",
+            "nft_name": "littlemermaid #52",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "5a542bef37f1abc4c25fa963b46b10a729d7b959",
+            "edition": 52,
+            "date": 1643470653879,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/53.png",
+            "nft_name": "littlemermaid #53",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "ae7b051cbe627f504bca43a0b66e64cc9194b218",
+            "edition": 53,
+            "date": 1643470654588,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/54.png",
+            "nft_name": "littlemermaid #54",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "27d206bd979bd0649472cd1d3f033b7e2a7f79fb",
+            "edition": 54,
+            "date": 1643470655364,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/55.png",
+            "nft_name": "littlemermaid #55",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "a2c2ae3aca4277d8e680d32f144c32818a37b2fe",
+            "edition": 55,
+            "date": 1643470656167,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/56.png",
+            "nft_name": "littlemermaid #56",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "e67db699881da498bed2d5ee2010c4b20af15d1a",
+            "edition": 56,
+            "date": 1643470656940,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/57.png",
+            "nft_name": "littlemermaid #57",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "7786c0cbb319aeab0a448e7e4b0676c42f287870",
+            "edition": 57,
+            "date": 1643470657673,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/58.png",
+            "nft_name": "littlemermaid #58",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "bf090436ff082663998aed989b13b035b7e9812d",
+            "edition": 58,
+            "date": 1643470658401,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/59.png",
+            "nft_name": "littlemermaid #59",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "1966d22ae8bfc259c9e4dd99955f6a0cd8b23182",
+            "edition": 59,
+            "date": 1643470659170,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/60.png",
+            "nft_name": "littlemermaid #60",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 1"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "bf388145581381347a6efa7001dae3dc8679b9fa",
+            "edition": 60,
+            "date": 1643470659979,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/61.png",
+            "nft_name": "littlemermaid #61",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 2"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "092285eecb4455979a70de300ff10e4e9619cbb7",
+            "edition": 61,
+            "date": 1643470660774,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/62.png",
+            "nft_name": "littlemermaid #62",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 1"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 2"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "34b7fa96aa2b9956ba381d7467af5a0fb4d415ec",
+            "edition": 62,
+            "date": 1643470661535,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/63.png",
+            "nft_name": "littlemermaid #63",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 1"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 1"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "86bb3013ae3e220d6819ffd411dfed877d11b6db",
+            "edition": 63,
+            "date": 1643470662335,
+            "compiler": "HashLips Art Engine"
+        },
+        {
+            "file_path": "D:/php74/htdocs/nft/generate-nfts-main/build/images/64.png",
+            "nft_name": "littlemermaid #64",
+            "external_link": "https://sazzadul.com/",
+            "description": "The central story of The Little Mermaid",
+            "collection": "littlemermaid",
+            "properties": [{
+                    "type": "background",
+                    "name": "white 1"
+                },
+                {
+                    "type": "uper widget",
+                    "name": "widget 1"
+                },
+                {
+                    "type": "footer",
+                    "name": "footer 2"
+                },
+                {
+                    "type": "leg",
+                    "name": "leg 1"
+                },
+                {
+                    "type": "leg mark",
+                    "name": "leg mark 1"
+                },
+                {
+                    "type": "right hand",
+                    "name": "right hand 1"
+                },
+                {
+                    "type": "body",
+                    "name": "body 2"
+                },
+                {
+                    "type": "left hand show",
+                    "name": "left hand show 2"
+                },
+                {
+                    "type": "left hand",
+                    "name": "left hand 2"
+                },
+                {
+                    "type": "hair",
+                    "name": "hair 2"
+                },
+                {
+                    "type": "crown",
+                    "name": "crown 1"
+                },
+                {
+                    "type": "swing",
+                    "name": "swing"
+                },
+                {
+                    "type": "swing cat",
+                    "name": "swing cat"
+                },
+                {
+                    "type": "swing cat dress",
+                    "name": "swing cat dress 1"
+                }
+            ],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": [],
+            "explicit_and_sensitive_content": false,
+            "supply": 1,
+            "blockchain": "Polygon",
+            "price": 0.005,
+            "quantity": 1,
+            "dna": "c7eaf1cff282300100ec4dd3c3f3cc6c5b3fce52",
+            "edition": 64,
+            "date": 1643470663147,
+            "compiler": "HashLips Art Engine"
+        }
+    ]
+}
