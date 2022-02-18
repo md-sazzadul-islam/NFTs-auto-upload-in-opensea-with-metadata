@@ -423,7 +423,7 @@ class Opensea(object):
                             self.element_clickable('//*[@id="tippy-9"]/div/div'
                                                    f'/div/ul/li[{li}]/button')
                             break
-            sleep(2) 
+            sleep(2)
               # Set number of supply.
             if settings.supply != "" and type(settings.supply) == int:
                 if (
@@ -436,12 +436,13 @@ class Opensea(object):
                         self.element_visible('//*[@id="supply"]'))
                     self.element_send_keys(
                     '//*[@id="supply"]', settings.supply)
-            sleep(2)      
+            sleep(2)
 
-            
             # Click on "Create" button.
             self.element_clickable('//*[@id="__next"]/div[1]/main/div/div/'
                                    'section/div/form/div/div[1]/span/button')
+            
+            sleep(10)
             # Check if done.
             self.element_visible('/html/body/div[5]/div/div/div/div[1]', 10)
             print(f'{green}Done.{reset}')
@@ -469,7 +470,7 @@ class Opensea(object):
                             '//*[@id="quantity"]', str(settings.quantity))
                     else:
                         raise TE('Quantity must be less or equal to supply.')
-                        
+
             if settings.supply == 1 and \
                     settings.blockchain.lower() != 'polygon':
                 # Input Ethereum price.
@@ -486,9 +487,14 @@ class Opensea(object):
                 self.element_clickable('//button[@type="submit"]')
             except Exception:
                 raise TE('An error occured. Submit button can\'t be clicked')
-           
+
              # Click on "Create" button.
-            self.element_clickable('//button[@class="Blockreact__Block-sc-1xf18x6-0 Buttonreact__StyledButton-sc-glfma3-0 bhqEJb fzwDgL"]')
+            try:
+                
+                self.element_clickable('//*[@class="ActionPanel--content"]/button')
+            except Exception:
+                raise TE('An error occured. Sell button can\'t be clicked')
+            
 
             WDW(webdriver, timeout=1)       
             
