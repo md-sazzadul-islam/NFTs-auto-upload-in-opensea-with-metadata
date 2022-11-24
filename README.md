@@ -102,6 +102,5 @@ pip install -r requirements.txt
 }
 
 
-Credits to @maximedrn -> https://github.com/maximedrn/opensea_automatic_uploader
 
 
